@@ -1,3 +1,7 @@
+---
+title: About me
+---
+
 ## Intro
 
 Hello! While my interests dovetail into many areas, I look at the world proincipally through the lens of a computational modeller: someone who uses using data and simulations of mathematical simplifications to try and better understand what is going on and predict what might happen next.
